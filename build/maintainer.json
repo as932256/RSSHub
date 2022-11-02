@@ -560,6 +560,12 @@
     "/blockbeats/:channel?": [
         "Fatpandac"
     ],
+    "/bloomberg/:site?": [
+        "bigfei"
+    ],
+    "/bloomberg/": [
+        "bigfei"
+    ],
     "/bluestacks/release/5": [
         "TonyRL"
     ],
@@ -724,6 +730,12 @@
     ],
     "/cncf/:cate?": [
         "Fatpandac"
+    ],
+    "/cngal/entry/:id": [
+        "chengyuhui"
+    ],
+    "/cngal/weekly": [
+        "chengyuhui"
     ],
     "/cnjxol/jxrb/:id?": [
         "nczitzk"
