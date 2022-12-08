@@ -1696,6 +1696,12 @@
     "/guangdiu/:query?": [
         "Fatpandac"
     ],
+    "/guanhai": [
+        "TonyRL"
+    ],
+    "/guanhai/": [
+        "TonyRL"
+    ],
     "/guduodata/daily": [
         "Gem1ni"
     ],
@@ -3499,6 +3505,9 @@
     ],
     "/shmtu/jwc/:type": [
         "simonsmh"
+    ],
+    "/shmtu/portal/:type": [
+        "imbytecat"
     ],
     "/shmtu/www/:type": [
         "simonsmh"
