@@ -167,6 +167,9 @@
     "/agirls/:category?": [
         "TonyRL"
     ],
+    "/agora0/pen0": [
+        "TonyRL"
+    ],
     "/agora0/:category?": [
         "nczitzk"
     ],
@@ -3354,6 +3357,9 @@
     "/remnote/changelog": [
         "TonyRL"
     ],
+    "/researchgate/publications/:username": [
+        "nczitzk"
+    ],
     "/reuters/investigates": [
         "LyleLee"
     ],
@@ -5984,7 +5990,6 @@
     "/blogs/foreverblog": [],
     "/netflix/newsroom/:category?/:region?": [],
     "/sbs/chinese/:category?/:id?/:dialect?/:language?": [],
-    "/researchgate/publications/:id": [],
     "/questmobile/report/:category?/:label?": [],
     "/rss3/blog": [],
     "/fashionnetwork/news/:sectors?/:categories?/:language?": [],
