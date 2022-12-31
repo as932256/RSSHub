@@ -3347,6 +3347,9 @@
         "Fatpandac",
         "nczitzk"
     ],
+    "/qlu/notice": [
+        "SunBK201"
+    ],
     "/qm120/news/:category?": [
         "nczitzk"
     ],
@@ -4534,6 +4537,9 @@
         "nczitzk"
     ],
     "/ymgal/article/:type?": [
+        "SunBK201"
+    ],
+    "/ymgal/game/release": [
         "SunBK201"
     ],
     "/yoasobi-music/info/:category": [
